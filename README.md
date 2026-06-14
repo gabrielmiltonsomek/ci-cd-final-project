@@ -36,3 +36,11 @@ Licensed under the Apache License. See [LICENSE](/LICENSE)
 Skills Network
 
 ## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
+
+## Project Name
+
+CI/CD Final Project
+
+## Project Details
+
+This project demonstrates a complete CI/CD pipeline using GitHub Actions, Tekton, and OpenShift.
